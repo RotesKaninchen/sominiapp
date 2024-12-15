@@ -1,0 +1,12 @@
+somini/
+├── backend/
+│   ├── game_logic.py  # Core game logic
+│   ├── storage.py     # Google Storage integration
+│   └── __init__.py
+├── frontend/
+│   ├── main.py        # UI and game interaction
+│   ├── assets/        # Images, sounds, etc.
+│   └── __init__.py
+├── tests/             # Unit tests
+├── requirements.txt   # Python dependencies
+└── README.md          # Project documentation
